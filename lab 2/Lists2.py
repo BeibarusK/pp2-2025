@@ -1,3 +1,4 @@
+#Access items
 thislist = ["apple", "banana", "cherry"]
 print(thislist[1])
 
